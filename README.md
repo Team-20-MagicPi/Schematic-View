@@ -3,7 +3,7 @@ The Schematic View of our project
 
 Breadboard view and schematic diagram drawn by Fritzing.
 
-**Note: only used for reference when wiring, not accurate**
+**Note: only used for reference when wiring, not accurate！**
 
 ![image](https://user-images.githubusercontent.com/49462534/115157737-cd91a900-a082-11eb-9649-104e314062d9.png)
 
